@@ -1,12 +1,12 @@
-# Algorithms-Roadmap (0 / 150)
+# Algorithms-Roadmap (2 / 150)
 
-### Arrays & Hashing (0 / 9)
+### Arrays & Hashing (2 / 9)
 
 | Status 	|                                           Problem                                           	| Difficulty 	| Code 	|
 |:------:	|:-------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
-|    ❌   	|           [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           	|    Easy    	|      	|
+|    ✅   	|           [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           	|    Easy    	| [swift](LeetCode/217-Contains-Duplicate.swift)     	|
 |    ❌   	|                [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                	|    Easy    	|      	|
-|    ❌   	|                      [Two Sum](https://leetcode.com/problems/two-sum/)                      	|    Easy    	|      	|
+|    ✅   	|                      [Two Sum](https://leetcode.com/problems/two-sum/)                      	|    Easy    	| [swift](LeetCode/1-Two-Sum.swift)     	|
 |    ❌   	|               [Group Anagrams](https://leetcode.com/problems/group-anagrams/)               	|   Medium   	|      	|
 |    ❌   	|      [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      	|   Medium   	|      	|
 |    ❌   	| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 	|   Medium   	|      	|

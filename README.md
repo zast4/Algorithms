@@ -1,6 +1,6 @@
-# Algorithms-Roadmap (7 / 150)
+# Algorithms-Roadmap (8 / 150)
 
-### Arrays & Hashing (7 / 9)
+### Arrays & Hashing (8 / 9)
 
 | Status 	|                                           Problem                                           	| Difficulty 	| Code 	|
 |:------:	|:-------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
@@ -11,7 +11,7 @@
 |    ✅   	|      [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      	|   Medium   	| [swift](LeetCode/347-Top-K-Frequent-Elements.swift)     	|
 |    ✅   	| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 	|   Medium   	| [swift](LeetCode/36-Valid-Sudoku.swift)     	|
 |    ✅   	|                 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                 	|   Medium   	| [swift](LeetCode/238-Product-of-Array-Except-Self.swift)     	|
-|    ❌   	|    [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒   	|   Medium   	|      	|
+|    ✅   	|    [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒   	|   Medium   	| [swift](LeetCode/271-Encode-and-Decode-Strings.swift)     	|
 |    ❌   	| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 	|   Medium   	|      	|
 
 ### Two Pointers (0 / 5)

@@ -1,4 +1,4 @@
-# Algorithms-Roadmap (13 / 150)
+# Algorithms-Roadmap (14 / 150)
 
 ### Arrays & Hashing (9 / 9)
 
@@ -14,7 +14,7 @@
 |    ✅   	|    [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒   	|   Medium   	| [swift](LeetCode/Arrays-and-Hashing/271-Encode-and-Decode-Strings.swift)     	|
 |    ✅  	| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 	|   Medium   	| [swift](LeetCode/Arrays-and-Hashing/128-Longest-Consecutive-Sequence.swift)     	|
 
-### Two Pointers (4 / 5)
+### Two Pointers (5 / 5)
 
 | Status 	|                                               Problem                                               	| Difficulty 	| Code 	|
 |:------:	|:---------------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
@@ -22,7 +22,7 @@
 |    ✅   	| [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 	|   Medium   	| [swift](LeetCode/Two-Pointers/167-Two-Sum-II-Input-Array-Is-Sorted.swift)     	|
 |    ✅   	|                             [3Sum](https://leetcode.com/problems/3sum/)                             	|   Medium   	| [swift](LeetCode/Two-Pointers/15-3Sum.swift)     	|
 |    ✅   	|        [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)        	|   Medium   	| [swift](LeetCode/Two-Pointers/11-Container-With-Most-Water.swift)     	|
-|    ❌   	|              [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)              	|    Hard    	|      	|
+|    ✅   	|              [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)              	|    Hard    	| [swift](LeetCode/Two-Pointers/42-Trapping-Rain-Water.swift)      	|
 
 ### Stack (0 / 7)
 

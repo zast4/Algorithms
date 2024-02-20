@@ -1,27 +1,27 @@
-# Algorithms-Roadmap (12 / 150)
+# Algorithms-Roadmap (13 / 150)
 
 ### Arrays & Hashing (9 / 9)
 
 | Status 	|                                           Problem                                           	| Difficulty 	| Code 	|
 |:------:	|:-------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
-|    ✅   	|           [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           	|    Easy    	| [swift](LeetCode/217-Contains-Duplicate.swift)     	|
-|    ✅   	|                [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                	|    Easy    	| [swift](LeetCode/242-Valid-Anagram.swift)     	|
-|    ✅   	|                      [Two Sum](https://leetcode.com/problems/two-sum/)                      	|    Easy    	| [swift](LeetCode/1-Two-Sum.swift)     	|
-|    ✅   	|               [Group Anagrams](https://leetcode.com/problems/group-anagrams/)               	|   Medium   	| [swift](LeetCode/49-Group-Anagrams.swift)     	|
-|    ✅   	|      [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      	|   Medium   	| [swift](LeetCode/347-Top-K-Frequent-Elements.swift)     	|
-|    ✅   	| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 	|   Medium   	| [swift](LeetCode/36-Valid-Sudoku.swift)     	|
-|    ✅   	|                 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                 	|   Medium   	| [swift](LeetCode/238-Product-of-Array-Except-Self.swift)     	|
-|    ✅   	|    [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒   	|   Medium   	| [swift](LeetCode/271-Encode-and-Decode-Strings.swift)     	|
-|    ✅  	| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 	|   Medium   	| [swift](LeetCode/128-Longest-Consecutive-Sequence.swift)     	|
+|    ✅   	|           [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)           	|    Easy    	| [swift](LeetCode/Arrays-and-Hashing/217-Contains-Duplicate.swift)     	|
+|    ✅   	|                [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                	|    Easy    	| [swift](LeetCode/Arrays-and-Hashing/242-Valid-Anagram.swift)     	|
+|    ✅   	|                      [Two Sum](https://leetcode.com/problems/two-sum/)                      	|    Easy    	| [swift](LeetCode/Arrays-and-Hashing/1-Two-Sum.swift)     	|
+|    ✅   	|               [Group Anagrams](https://leetcode.com/problems/group-anagrams/)               	|   Medium   	| [swift](LeetCode/Arrays-and-Hashing/49-Group-Anagrams.swift)     	|
+|    ✅   	|      [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)      	|   Medium   	| [swift](LeetCode/Arrays-and-Hashing/347-Top-K-Frequent-Elements.swift)     	|
+|    ✅   	| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 	|   Medium   	| [swift](LeetCode/Arrays-and-Hashing/36-Valid-Sudoku.swift)     	|
+|    ✅   	|                 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                 	|   Medium   	| [swift](LeetCode/Arrays-and-Hashing/238-Product-of-Array-Except-Self.swift)     	|
+|    ✅   	|    [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒   	|   Medium   	| [swift](LeetCode/Arrays-and-Hashing/271-Encode-and-Decode-Strings.swift)     	|
+|    ✅  	| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) 	|   Medium   	| [swift](LeetCode/Arrays-and-Hashing/128-Longest-Consecutive-Sequence.swift)     	|
 
-### Two Pointers (3 / 5)
+### Two Pointers (4 / 5)
 
 | Status 	|                                               Problem                                               	| Difficulty 	| Code 	|
 |:------:	|:---------------------------------------------------------------------------------------------------:	|:----------:	|:----:	|
-|    ✅   	|                 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                 	|    Easy    	| [swift](LeetCode/125-Valid-Palindrome.swift)     	|
-|    ✅   	| [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 	|   Medium   	| [swift](LeetCode/167-Two-Sum-II-Input-Array-Is-Sorted.swift)     	|
-|    ✅   	|                             [3Sum](https://leetcode.com/problems/3sum/)                             	|   Medium   	| [swift](LeetCode/15-3Sum.swift)     	|
-|    ❌   	|        [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)        	|   Medium   	|      	|
+|    ✅   	|                 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                 	|    Easy    	| [swift](LeetCode/Two-Pointers/125-Valid-Palindrome.swift)     	|
+|    ✅   	| [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 	|   Medium   	| [swift](LeetCode/Two-Pointers/167-Two-Sum-II-Input-Array-Is-Sorted.swift)     	|
+|    ✅   	|                             [3Sum](https://leetcode.com/problems/3sum/)                             	|   Medium   	| [swift](LeetCode/Two-Pointers/15-3Sum.swift)     	|
+|    ✅   	|        [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)        	|   Medium   	| [swift](LeetCode/Two-Pointers/11-Container-With-Most-Water.swift)     	|
 |    ❌   	|              [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)              	|    Hard    	|      	|
 
 ### Stack (0 / 7)
